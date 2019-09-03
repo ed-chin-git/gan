@@ -1,4 +1,5 @@
 # TensorFlow-GAN (TF-GAN)
+2019
 
 TF-GAN is a lightweight library for training and evaluating [Generative
 Adversarial Networks (GANs)](https://arxiv.org/abs/1406.2661).
